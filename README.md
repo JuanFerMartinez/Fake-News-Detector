@@ -6,7 +6,7 @@
 ![badge-nlp](https://img.shields.io/badge/NLP-TF--IDF-informational?style=flat-square&logo=python&color=4AB197)
 ![badge-model](https://img.shields.io/badge/Model-Naive%20Bayes-brightgreen?style=flat-square)
 ![badge-deploy](https://img.shields.io/badge/Deployment-Streamlit-blueviolet?style=flat-square)
-![badge-license](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
 
 </div>
 
