@@ -52,6 +52,7 @@ This project uses **TF-IDF** vectorization and a **Multinomial Naive Bayes** mod
 
 ## 📁 Project Structure
 
+```
 Modelonoticias/
 │
 ├── data/                    # Raw datasets
@@ -73,4 +74,5 @@ Modelonoticias/
 ├── vectorizer.joblib      # Saved TF-IDF vectorizer
 ├── requirements.txt
 └── README.md
+```
 
