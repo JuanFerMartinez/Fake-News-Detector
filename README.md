@@ -62,3 +62,4 @@ This project combines **Natural Language Processing (NLP)** with a user-friendly
 
 ## 📁 Project Structure
 
+Modelonoticias/ │ ├── data/ # Raw datasets │ ├── Fake.csv │ └── True.csv │ ├── assets/ # Screenshots or media │ └── screenshot.png │ ├── src/ # Source code │ ├── cargar_datos.py # Load and merge datasets │ ├── eda.py # Exploratory Data Analysis │ ├── modelo.py # Model training and prediction │ ├── preprocesamiento.py # Text cleaning and preprocessing │ └── app.py # Streamlit UI app │ ├── main.py # Train + evaluate model from CLI ├── modelo.joblib # Saved Naive Bayes model ├── vectorizer.joblib # Saved TF-IDF vectorizer ├── requirements.txt └── README.md
